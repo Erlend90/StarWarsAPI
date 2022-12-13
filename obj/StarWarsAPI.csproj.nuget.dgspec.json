@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erlendlotsberg/Projects/StarWarsAPI/StarWarsAPI.csproj": {}
+    "/Users/erlendlotsberg/Documents/GitHub/StarWarsAPI/StarWarsAPI.csproj": {}
   },
   "projects": {
-    "/Users/erlendlotsberg/Projects/StarWarsAPI/StarWarsAPI.csproj": {
+    "/Users/erlendlotsberg/Documents/GitHub/StarWarsAPI/StarWarsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erlendlotsberg/Projects/StarWarsAPI/StarWarsAPI.csproj",
+        "projectUniqueName": "/Users/erlendlotsberg/Documents/GitHub/StarWarsAPI/StarWarsAPI.csproj",
         "projectName": "StarWarsAPI",
-        "projectPath": "/Users/erlendlotsberg/Projects/StarWarsAPI/StarWarsAPI.csproj",
+        "projectPath": "/Users/erlendlotsberg/Documents/GitHub/StarWarsAPI/StarWarsAPI.csproj",
         "packagesPath": "/Users/erlendlotsberg/.nuget/packages/",
-        "outputPath": "/Users/erlendlotsberg/Projects/StarWarsAPI/obj/",
+        "outputPath": "/Users/erlendlotsberg/Documents/GitHub/StarWarsAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/erlendlotsberg/.nuget/NuGet/NuGet.Config"

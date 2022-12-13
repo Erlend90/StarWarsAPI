@@ -28,7 +28,7 @@ namespace StarWarsAPI.Models
             var data = JsonConvert.DeserializeObject<Planet>(response);
 
             //examine results for planetByID and get information from resident and film from their models
-            //for each the array of films/residents and compile results, append to data and encode to json
+            //for-each the array of films/residents and compile results, compile all the data and encode to Json
 
             return data;
         }

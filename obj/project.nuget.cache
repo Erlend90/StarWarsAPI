@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+40Os8YYartCvqgt0orsPzWQ1Q7MSn0w5j0yVArHBfz2nOe9IYFSBA3rimLkyNHVd4nvcGliS0qludZWnYOseg==",
+  "dgSpecHash": "oERSAV3yg9FYHnK9ci/drAOkgk69B9wddz7LG26AHWSSHvJe4hr9WLEUlrV8RCK/NXA7+ADrSX720s1kN0zRxw==",
   "success": true,
-  "projectFilePath": "/Users/erlendlotsberg/Projects/StarWarsAPI/StarWarsAPI.csproj",
+  "projectFilePath": "/Users/erlendlotsberg/Documents/GitHub/StarWarsAPI/StarWarsAPI.csproj",
   "expectedPackageFiles": [
     "/Users/erlendlotsberg/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "/Users/erlendlotsberg/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
